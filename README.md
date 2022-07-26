@@ -32,5 +32,6 @@ Por lo general, todos los juegos se controlan utilizando las teclas WASD.
 Actualmente, esta versión del juego puede descargarse de los siguientes sitios.
 
 <a href="https://sergiomejias.itch.io/2d-mini-box"><img src="Resources/B_Itch.png" height="50">
+<a href="https://gamejolt.com/games/2d-mini-box/736843"><img src="Resources/B_GameJolt.png" height="50">
 <a href="https://play.google.com/store/apps/details?id=com.SergioMejias.MiniBox2D"><img src="Resources/B_GooglePlay.png" height="50">
 <a href="https://galaxy.store/2dmini"><img src="Resources/B_GalaxyStore.png" height="50">
