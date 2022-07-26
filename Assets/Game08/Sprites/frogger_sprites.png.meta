@@ -1,0 +1,1871 @@
+fileFormatVersion: 2
+guid: c94acb74be6f8784a9b79047f2596cef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9151521823057866801
+    second: frogger_sprites_0
+  - first:
+      213: -5181009593011410212
+    second: frogger_sprites_1
+  - first:
+      213: 3386010717386797245
+    second: frogger_sprites_2
+  - first:
+      213: 9031698133979806132
+    second: frogger_sprites_3
+  - first:
+      213: 9138970104927680383
+    second: frogger_sprites_4
+  - first:
+      213: 943501321526000077
+    second: frogger_sprites_5
+  - first:
+      213: -264826831302312780
+    second: frogger_sprites_6
+  - first:
+      213: 7099929965503227683
+    second: Grass
+  - first:
+      213: -4364645085435174358
+    second: Purple
+  - first:
+      213: 7791883443696897469
+    second: Trunk3
+  - first:
+      213: 7336967072971223853
+    second: Trunk2
+  - first:
+      213: 8858953687458334081
+    second: Trunk1
+  - first:
+      213: 7595388405015689331
+    second: frogger_sprites_12
+  - first:
+      213: -8857463031782039731
+    second: frogger_sprites_13
+  - first:
+      213: 8500466167158523305
+    second: frogger_sprites_14
+  - first:
+      213: 248498117653698089
+    second: Car3
+  - first:
+      213: -748980550401765956
+    second: Car4
+  - first:
+      213: -184992511774197555
+    second: Car1
+  - first:
+      213: -2068230995925691980
+    second: frogger_sprites_18
+  - first:
+      213: 7313430289406203220
+    second: frogger_sprites_19
+  - first:
+      213: 3090147454230344502
+    second: Car2
+  - first:
+      213: -2844255170665369344
+    second: Car2_1
+  - first:
+      213: -494500935487849912
+    second: Car2_2
+  - first:
+      213: 8528597548223998157
+    second: Car5
+  - first:
+      213: -8477055736466443873
+    second: frogger_sprites_24
+  - first:
+      213: -4486434344261653484
+    second: Frog_Right1
+  - first:
+      213: 2677377247928296070
+    second: Frog_Right1
+  - first:
+      213: -7833005922835059578
+    second: Frog_Left1
+  - first:
+      213: -4466627645823555854
+    second: Frog_Left1
+  - first:
+      213: 1990124081945545129
+    second: Crocodile2
+  - first:
+      213: -3514925168271359810
+    second: Frog_Up1
+  - first:
+      213: 438550497718498779
+    second: Frog_Up1
+  - first:
+      213: 182762065570444880
+    second: Frog_Down1
+  - first:
+      213: -6743300507805960570
+    second: Frog_Down1
+  - first:
+      213: -2742978136366100626
+    second: Crocodile1
+  - first:
+      213: -8332107341854786111
+    second: Turtle1
+  - first:
+      213: -4630839217880382659
+    second: Turtle2
+  - first:
+      213: 52646687905661295
+    second: Turtle3
+  - first:
+      213: 1295125340452693731
+    second: frogger_sprites_38
+  - first:
+      213: 7300875105463163530
+    second: Turtle4
+  - first:
+      213: -156951968796075138
+    second: frogger_sprites_40
+  - first:
+      213: -5798178826032865729
+    second: Turtle5
+  - first:
+      213: -7838666985951138117
+    second: frogger_sprites_42
+  - first:
+      213: -2557365446662782732
+    second: frogger_sprites_43
+  - first:
+      213: -1413822869045388088
+    second: frogger_sprites_44
+  - first:
+      213: 1317599904460154637
+    second: frogger_sprites_45
+  - first:
+      213: 9120395364973372388
+    second: frogger_sprites_46
+  - first:
+      213: 3765037333760425307
+    second: frogger_sprites_47
+  - first:
+      213: 1530028241305045263
+    second: frogger_sprites_48
+  - first:
+      213: -2201020404696137008
+    second: frogger_sprites_49
+  - first:
+      213: 5019361776482573842
+    second: frogger_sprites_50
+  - first:
+      213: 3785575113272847292
+    second: frogger_sprites_51
+  - first:
+      213: -7916299906502903972
+    second: frogger_sprites_52
+  - first:
+      213: 3486063733412333300
+    second: frogger_sprites_53
+  - first:
+      213: 8792527061737595349
+    second: frogger_sprites_54
+  - first:
+      213: 6611745990977314957
+    second: frogger_sprites_55
+  - first:
+      213: -5662030425407006955
+    second: frogger_sprites_56
+  - first:
+      213: 837457981248785562
+    second: frogger_sprites_57
+  - first:
+      213: 7592533554438124174
+    second: frogger_sprites_58
+  - first:
+      213: -8156246885882521277
+    second: frogger_sprites_59
+  - first:
+      213: 7254827178110604485
+    second: frogger_sprites_60
+  - first:
+      213: -7611183535370311343
+    second: frogger_sprites_61
+  - first:
+      213: 5756950157276796387
+    second: frogger_sprites_62
+  - first:
+      213: 8940280594022497668
+    second: frogger_sprites_63
+  - first:
+      213: -2622582334790448545
+    second: frogger_sprites_64
+  - first:
+      213: 8118772972446878673
+    second: frogger_sprites_65
+  - first:
+      213: 7027644189238398502
+    second: frogger_sprites_66
+  - first:
+      213: -3272176348776389543
+    second: frogger_sprites_67
+  - first:
+      213: -3876726747000413975
+    second: Turtle6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frogger_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 423
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13079997c9cb00f70800000000000000
+      internalID: 9151521823057866801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 423
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdae9aea93b5918b0800000000000000
+      internalID: -5181009593011410212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 424
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0718fbec68dfe20800000000000000
+      internalID: 3386010717386797245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 423
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9bc62d999075d70800000000000000
+      internalID: 9031698133979806132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 423
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77f02dd3e424de70800000000000000
+      internalID: 9138970104927680383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 424
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc93baaf37df71d00800000000000000
+      internalID: 943501321526000077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 423
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcbb396665235cf0800000000000000
+      internalID: -264826831302312780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 399
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327a8f3cfa4088260800000000000000
+      internalID: 7099929965503227683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 399
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a226bff6b6aad63c0800000000000000
+      internalID: -4364645085435174358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trunk3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 280
+        width: 178
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd0dc875b4522c60800000000000000
+      internalID: 7791883443696897469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trunk2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 248
+        width: 117
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23ff211ea422d560800000000000000
+      internalID: 7336967072971223853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trunk1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 216
+        width: 85
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1854796217351fa70800000000000000
+      internalID: 8858953687458334081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 231
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378b414238d386960800000000000000
+      internalID: 7595388405015689331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f1a7b2d48f31580800000000000000
+      internalID: -8857463031782039731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 203
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5c5be01f8b7f570800000000000000
+      internalID: 8500466167158523305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 180
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9261a1ea8b7d27300800000000000000
+      internalID: 248498117653698089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 178
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd40ad58261b95f0800000000000000
+      internalID: -748980550401765956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 177
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc877996a46ce6df0800000000000000
+      internalID: -184992511774197555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 178
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1956efdda2c43e0800000000000000
+      internalID: -2068230995925691980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 175
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45593a999168e7560800000000000000
+      internalID: 7313430289406203220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 145
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6333af0ccb862ea20800000000000000
+      internalID: 3090147454230344502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car2_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 145
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0013ce5edfc2788d0800000000000000
+      internalID: -2844255170665369344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car2_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84af527e40e2329f0800000000000000
+      internalID: -494500935487849912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 147
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8a82e984aab5670800000000000000
+      internalID: 8528597548223998157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 150
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91fab698b27b5a80800000000000000
+      internalID: -8477055736466443873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Right2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 110
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ceb2aebbbfcb1c0800000000000000
+      internalID: 2149157650924795880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Right1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 110
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682aa70fb64f72520800000000000000
+      internalID: -4486434344261653484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Left2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 109
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca2ed3d929b4390800000000000000
+      internalID: -7317584423708020211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Left1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f66fb242d95302c0800000000000000
+      internalID: -7833005922835059578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 105
+        width: 89
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a98053fe475e9b10800000000000000
+      internalID: 1990124081945545129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Up2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 81
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb00b1dae2a783fc0800000000000000
+      internalID: 7259977244919909412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Up1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 76
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f498aa5b061600800000000000000
+      internalID: -3514925168271359810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Down2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0563ebc512d498200800000000000000
+      internalID: -3626101920644547671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_Down1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 76
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686b38a6aebfa62a0800000000000000
+      internalID: 182762065570444880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crocodile1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 72
+        width: 89
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f4c3bfaebfee9d0800000000000000
+      internalID: -2742978136366100626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 39
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd325a94886e5c80800000000000000
+      internalID: -8332107341854786111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 38
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33ca4e3444fbbfb0800000000000000
+      internalID: -4630839217880382659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 40
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61c73b32e90bb000800000000000000
+      internalID: 52646687905661295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 52
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e62a41a2a539f110800000000000000
+      internalID: 1295125340452693731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8adf9a0a3be15560800000000000000
+      internalID: 7300875105463163530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 53
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b9c15140562ddf0800000000000000
+      internalID: -156951968796075138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 38
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e9e1ae31bb88fa0800000000000000
+      internalID: -5798178826032865729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 36
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeecc548e5773390800000000000000
+      internalID: -7838666985951138117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 34
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f08ecefca9628cd0800000000000000
+      internalID: -2557365446662782732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 36
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccd9336797116ce0800000000000000
+      internalID: -1413822869045388088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 34
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07af65d12e094210800000000000000
+      internalID: 1317599904460154637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 38
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e36b543347229e70800000000000000
+      internalID: 9120395364973372388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 38
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dbfdcc189104430800000000000000
+      internalID: 3765037333760425307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f098d4b3490cb3510800000000000000
+      internalID: 1530028241305045263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d243ba7a976471e0800000000000000
+      internalID: -2201020404696137008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eda6621fa58a540800000000000000
+      internalID: 5019361776482573842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbef293280198430800000000000000
+      internalID: 3785575113272847292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57bf696d27a32290800000000000000
+      internalID: -7916299906502903972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f60a6ede7cf06030800000000000000
+      internalID: 3486063733412333300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1e0e027c4550a70800000000000000
+      internalID: 8792527061737595349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80e051c2f3a1cb50800000000000000
+      internalID: 6611745990977314957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 8
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517592aa35d6c61b0800000000000000
+      internalID: -5662030425407006955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 7
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c46aec89f3f9b00800000000000000
+      internalID: 837457981248785562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82b4817a091e5960800000000000000
+      internalID: 7592533554438124174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 8
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3491692cba03fce80800000000000000
+      internalID: -8156246885882521277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_60
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4d12a71e25ea460800000000000000
+      internalID: 7254827178110604485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 7
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15963fd76e4af5690800000000000000
+      internalID: -7611183535370311343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 8
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5dc1a9aabc4ef40800000000000000
+      internalID: 5756950157276796387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d770725d1421c70800000000000000
+      internalID: 8940280594022497668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ac994f247ba9bd0800000000000000
+      internalID: -2622582334790448545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_65
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 7
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db0dbad00daba070800000000000000
+      internalID: 8118772972446878673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_66
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e8463f725378160800000000000000
+      internalID: 7027644189238398502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frogger_sprites_67
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954afb092f4e692d0800000000000000
+      internalID: -3272176348776389543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 38
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0e8c93099133ac0800000000000000
+      internalID: -3876726747000413975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      frogger_sprites_56: -5662030425407006955
+      Trunk3: 7791883443696897469
+      Car3: 248498117653698089
+      Crocodile2: 1990124081945545129
+      frogger_sprites_3: 9031698133979806132
+      frogger_sprites_47: 3765037333760425307
+      Trunk1: 8858953687458334081
+      frogger_sprites_63: 8940280594022497668
+      frogger_sprites_57: 837457981248785562
+      frogger_sprites_40: -156951968796075138
+      frogger_sprites_4: 9138970104927680383
+      Turtle5: -5798178826032865729
+      Frog_Down1: 182762065570444880
+      frogger_sprites_44: -1413822869045388088
+      frogger_sprites_59: -8156246885882521277
+      frogger_sprites_52: -7916299906502903972
+      Car2_1: -2844255170665369344
+      frogger_sprites_13: -8857463031782039731
+      frogger_sprites_1: -5181009593011410212
+      frogger_sprites_0: 9151521823057866801
+      Car1: -184992511774197555
+      Turtle1: -8332107341854786111
+      frogger_sprites_66: 7027644189238398502
+      Frog_Down2: -3626101920644547671
+      Purple: -4364645085435174358
+      frogger_sprites_24: -8477055736466443873
+      frogger_sprites_65: 8118772972446878673
+      frogger_sprites_12: 7595388405015689331
+      Frog_Up1: -3514925168271359810
+      frogger_sprites_43: -2557365446662782732
+      frogger_sprites_62: 5756950157276796387
+      Trunk2: 7336967072971223853
+      Frog_Left1: -7833005922835059578
+      Car4: -748980550401765956
+      Frog_Up2: 7259977244919909412
+      frogger_sprites_6: -264826831302312780
+      Turtle3: 52646687905661295
+      frogger_sprites_58: 7592533554438124174
+      frogger_sprites_50: 5019361776482573842
+      frogger_sprites_54: 8792527061737595349
+      Turtle4: 7300875105463163530
+      Frog_Left2: -7317584423708020211
+      frogger_sprites_42: -7838666985951138117
+      frogger_sprites_60: 7254827178110604485
+      frogger_sprites_14: 8500466167158523305
+      Car2_2: -494500935487849912
+      frogger_sprites_38: 1295125340452693731
+      frogger_sprites_67: -3272176348776389543
+      Turtle2: -4630839217880382659
+      frogger_sprites_5: 943501321526000077
+      frogger_sprites_19: 7313430289406203220
+      Car5: 8528597548223998157
+      frogger_sprites_64: -2622582334790448545
+      Turtle6: -3876726747000413975
+      frogger_sprites_61: -7611183535370311343
+      Grass: 7099929965503227683
+      frogger_sprites_46: 9120395364973372388
+      frogger_sprites_2: 3386010717386797245
+      frogger_sprites_51: 3785575113272847292
+      frogger_sprites_49: -2201020404696137008
+      frogger_sprites_53: 3486063733412333300
+      Frog_Right2: 2149157650924795880
+      frogger_sprites_55: 6611745990977314957
+      Car2: 3090147454230344502
+      frogger_sprites_45: 1317599904460154637
+      frogger_sprites_48: 1530028241305045263
+      Crocodile1: -2742978136366100626
+      frogger_sprites_18: -2068230995925691980
+      Frog_Right1: -4486434344261653484
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

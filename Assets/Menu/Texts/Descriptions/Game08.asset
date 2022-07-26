@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f03b7bbf61d22464fb2448bb6c59e5ed, type: 3}
+  m_Name: Game08
+  m_EditorClassIdentifier: 
+  english: 'Use the on-screen buttons to move the frog.
+
+
+    Try to reach the five
+    bases at the top of the map avoiding the obstacles along the way. To cross the
+    lake you can jump on the trunks or the turtles.'
+  spanish: "Utiliza los botones en pantalla para mover a la rana.\r\n\r\nIntenta
+    alcanzar las cinco bases en el extremo superior del mapa evitando los obst\xE1culos
+    por el camino. Para atravesar el lago puedes saltar sobre los troncos o las tortugas."

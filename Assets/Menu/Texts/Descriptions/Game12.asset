@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f03b7bbf61d22464fb2448bb6c59e5ed, type: 3}
+  m_Name: Game12
+  m_EditorClassIdentifier: 
+  english: 'Use the "Left" and "Right" buttons to move the balloon.
+
+
+    Try to
+    get as many bubbles as possible dodging the spikes. The colored bubble gives
+    you temporary immunity and the magnet will allow you to attract the bubbles towards
+    you.'
+  spanish: "Utiliza los botones \"Izquierda\" y \"Derecha\" para mover al globo.\r\n\r\nIntenta
+    conseguir el m\xE1ximo n\xFAmero de burbujas posible esquivando los pinchos.
+    La burbuja de colores te proporciona inmunidad temporal y el im\xE1n te permitir\xE1
+    atraer hacia ti las burbujas."

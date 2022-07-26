@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f03b7bbf61d22464fb2448bb6c59e5ed, type: 3}
+  m_Name: Game09
+  m_EditorClassIdentifier: 
+  english: 'Use the "Up" button to jump and "Down" to crouch.
+
+
+    Try to survive
+    as long as possible without hitting any obstacle.'
+  spanish: "Utiliza el bot\xF3n \"Arriba\" para saltar y \"Abajo\" para agacharte.\n\r\nIntenta
+    sobrevivir el m\xE1ximo tiempo posible sin chocar con ning\xFAn obst\xE1culo."

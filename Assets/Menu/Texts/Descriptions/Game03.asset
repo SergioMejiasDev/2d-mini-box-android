@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f03b7bbf61d22464fb2448bb6c59e5ed, type: 3}
+  m_Name: Game03
+  m_EditorClassIdentifier: 
+  english: "Use The \"Left\" And \"Right\" Buttons To Move The Player's Ship.\r By
+    Pressing The \"Up\" Button, The Ship Will Start Shooting.\r\n      \r\nDestroy\r
+    As Many Enemies As Possible Before They Reach The Bases."
+  spanish: "Utiliza los botones \"Izquierda\" y \"Derecha\" para mover la nave\r
+    del jugador. Al presionar el bot\xF3n \"Arriba\", la nave comenzar\xE1 a disparar.\n\nDestruye\r
+    tantos enemigos como sea posible antes de que alcancen las bases."

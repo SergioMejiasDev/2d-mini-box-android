@@ -1,0 +1,1601 @@
+fileFormatVersion: 2
+guid: 57216c53be387fe4291589894a78656c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6473092491821904902
+    second: spaceinvader_0
+  - first:
+      213: -3257566633510956351
+    second: spaceinvader_1
+  - first:
+      213: -6781747270400854776
+    second: spaceinvader_2
+  - first:
+      213: -8934140856567888108
+    second: spaceinvader_3
+  - first:
+      213: 4223723784650292337
+    second: spaceinvader_4
+  - first:
+      213: 1279052194308740301
+    second: spaceinvader_5
+  - first:
+      213: 8542761975124045354
+    second: spaceinvader_6
+  - first:
+      213: -8473686074481035228
+    second: spaceinvader_7
+  - first:
+      213: -1352857888874003375
+    second: spaceinvader_8
+  - first:
+      213: -7484862748790947879
+    second: spaceinvader_9
+  - first:
+      213: -1022902609091425598
+    second: spaceinvader_10
+  - first:
+      213: 9065332816220534304
+    second: spaceinvader_11
+  - first:
+      213: 708363735641451229
+    second: spaceinvader_12
+  - first:
+      213: -3636168681333770603
+    second: spaceinvader_13
+  - first:
+      213: -6867976613372663256
+    second: spaceinvader_14
+  - first:
+      213: -4252258007180232652
+    second: spaceinvader_15
+  - first:
+      213: -4705494001870609717
+    second: spaceinvader_16
+  - first:
+      213: 4724953335428049132
+    second: spaceinvader_17
+  - first:
+      213: -1403930171452101004
+    second: spaceinvader_18
+  - first:
+      213: -5728831959120692249
+    second: EnemyBullet
+  - first:
+      213: 1309868413730690584
+    second: spaceinvader_20
+  - first:
+      213: 7956510213537500462
+    second: spaceinvader_21
+  - first:
+      213: 1825995359821943806
+    second: spaceinvader_22
+  - first:
+      213: 2285597184195345041
+    second: spaceinvader_23
+  - first:
+      213: -9111057891201599345
+    second: spaceinvader_24
+  - first:
+      213: 8868095608872490556
+    second: spaceinvader_25
+  - first:
+      213: 5700284076030339470
+    second: spaceinvader_26
+  - first:
+      213: 488200340967754379
+    second: spaceinvader_27
+  - first:
+      213: -72090802888882623
+    second: spaceinvader_28
+  - first:
+      213: 1771199124318434397
+    second: spaceinvader_29
+  - first:
+      213: 2320704150013912140
+    second: spaceinvader_30
+  - first:
+      213: -9221900205581657094
+    second: spaceinvader_31
+  - first:
+      213: -7547127698877712996
+    second: spaceinvader_32
+  - first:
+      213: -8111012346935821619
+    second: spaceinvader_33
+  - first:
+      213: 4335339108558841498
+    second: spaceinvader_34
+  - first:
+      213: 7800137925777050820
+    second: spaceinvader_35
+  - first:
+      213: 1245435145972623210
+    second: spaceinvader_36
+  - first:
+      213: -6996132717923532206
+    second: spaceinvader_37
+  - first:
+      213: 3089182879943499997
+    second: spaceinvader_38
+  - first:
+      213: -1709495388118857037
+    second: spaceinvader_39
+  - first:
+      213: -5654898022403703727
+    second: spaceinvader_40
+  - first:
+      213: 9049468215900604364
+    second: UFO
+  - first:
+      213: -7965988436120356788
+    second: player
+  - first:
+      213: 6698026400703759928
+    second: spaceinvader_43
+  - first:
+      213: -1382092820135302358
+    second: ExplosionEnemy
+  - first:
+      213: -6866329126619232226
+    second: spaceinvader_45
+  - first:
+      213: -1482557523382719349
+    second: spaceinvader_46
+  - first:
+      213: 3170673398424138790
+    second: spaceinvader_47
+  - first:
+      213: -589011836130802027
+    second: spaceinvader_48
+  - first:
+      213: -4859021803497821484
+    second: spaceinvader_49
+  - first:
+      213: 8619604619784351406
+    second: spaceinvader_50
+  - first:
+      213: 9082039607636107652
+    second: spaceinvader_51
+  - first:
+      213: -7017426373866741266
+    second: spaceinvader_52
+  - first:
+      213: -2021615743172225856
+    second: spaceinvader_53
+  - first:
+      213: -2063953498517404131
+    second: spaceinvader_54
+  - first:
+      213: 886035813971014680
+    second: spaceinvader_55
+  - first:
+      213: 8093774476442345238
+    second: ExplosionPlayer
+  - first:
+      213: 4771575810608946185
+    second: spaceinvader_57
+  - first:
+      213: 7715165976226204386
+    second: spaceinvader_58
+  - first:
+      213: -4546497567443031082
+    second: spaceinvader_59
+  - first:
+      213: 401987147486169436
+    second: spaceinvader_60
+  - first:
+      213: 1662973600634242089
+    second: spaceinvader_61
+  - first:
+      213: 3228770828881580867
+    second: spaceinvader_62
+  - first:
+      213: 4307635437419241018
+    second: spaceinvader_63
+  - first:
+      213: 6733500869093975618
+    second: spaceinvader_64
+  - first:
+      213: 4084746386644601558
+    second: spaceinvader_65
+  - first:
+      213: -5929584254818486792
+    second: spaceinvader_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaceinvader_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 624
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604fa4d435b05d950800000000000000
+      internalID: 6473092491821904902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 624
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c21a69f76ccac2d0800000000000000
+      internalID: -3257566633510956351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805384fe9c462e1a0800000000000000
+      internalID: -6781747270400854776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41787fed93e830480800000000000000
+      internalID: -8934140856567888108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 504
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf275676ead9a30800000000000000
+      internalID: 4223723784650292337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 504
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4d4faa13b10c110800000000000000
+      internalID: 1279052194308740301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 504
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eabff31ccfd8670800000000000000
+      internalID: 8542761975124045354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 504
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4283268296b676a80800000000000000
+      internalID: -8473686074481035228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 384
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1548416faeea93de0800000000000000
+      internalID: -1352857888874003375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 384
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dff2c98cfc602890800000000000000
+      internalID: -7484862748790947879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 384
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca09412f7bedc1f0800000000000000
+      internalID: -1022902609091425598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 384
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02634898a288ecd70800000000000000
+      internalID: 9065332816220534304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 375
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda6da2801d94d900800000000000000
+      internalID: 708363735641451229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 425
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59633bd79dbb98dc0800000000000000
+      internalID: -3636168681333770603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_14
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 374
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a6b3288ab00b0a0800000000000000
+      internalID: -6867976613372663256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 264
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43836b43fd1fcf4c0800000000000000
+      internalID: -4252258007180232652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 264
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc265c5d22ab2beb0800000000000000
+      internalID: -4705494001870609717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 264
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce86c725608629140800000000000000
+      internalID: 4724953335428049132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 264
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ee42982fc348ce0800000000000000
+      internalID: -1403930171452101004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8161ceed1669d2210800000000000000
+      internalID: 1309868413730690584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d8ba142e33b6e60800000000000000
+      internalID: 7956510213537500462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3d2bfea1d375910800000000000000
+      internalID: 1825995359821943806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ab897878218bf10800000000000000
+      internalID: 2285597184195345041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 185
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88b8e2de150f8180800000000000000
+      internalID: -9111057891201599345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 185
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36db0998fdc11b70800000000000000
+      internalID: 8868095608872490556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 185
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89aa9e6a2a7b1f40800000000000000
+      internalID: 5700284076030339470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 185
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a8b9e9f9f66c600800000000000000
+      internalID: 488200340967754379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_28
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 185
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1464c36fbc1effef0800000000000000
+      internalID: -72090802888882623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_29
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 185
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54bb772830949810800000000000000
+      internalID: 1771199124318434397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_30
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 185
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44aa5af02cc43020800000000000000
+      internalID: 2320704150013912140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_31
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 185
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb143c6f9a350080800000000000000
+      internalID: -9221900205581657094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 168
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95f1e12857334790800000000000000
+      internalID: -7547127698877712996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_33
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 168
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca35149e35ef6f80800000000000000
+      internalID: -8111012346935821619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_34
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 168
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96228a13f73a2c30800000000000000
+      internalID: 4335339108558841498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 168
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4ef8dd18af3c60800000000000000
+      internalID: 7800137925777050820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 145
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a672c7aaaaca84110800000000000000
+      internalID: 1245435145972623210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 145
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2520ea23c5eb8ee90800000000000000
+      internalID: -6996132717923532206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_38
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 145
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0204d467bfeda20800000000000000
+      internalID: 3089182879943499997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_39
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 145
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bac1067007a648e0800000000000000
+      internalID: -1709495388118857037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_40
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 145
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c7195a534c581b0800000000000000
+      internalID: -5654898022403703727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFO
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 123
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc781fe656b269d70800000000000000
+      internalID: 9049468215900604364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 28
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c483d2419bf137190800000000000000
+      internalID: -7965988436120356788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_43
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 74
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c226168b24fc50800000000000000
+      internalID: 6698026400703759928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionEnemy
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 28
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ba73917e1d1dce0800000000000000
+      internalID: -1382092820135302358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_48
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 77
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5964ce21bd863d7f0800000000000000
+      internalID: -589011836130802027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_49
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 77
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da62a6f969419cb0800000000000000
+      internalID: -4859021803497821484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_50
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 77
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeef8aabbcfe9770800000000000000
+      internalID: 8619604619784351406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_51
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481ad2987e2e90e70800000000000000
+      internalID: 9082039607636107652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_52
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 77
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1273494e71d9e90800000000000000
+      internalID: -7017426373866741266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_53
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 77
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4d1eb4137c1f3e0800000000000000
+      internalID: -2021615743172225856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_54
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 77
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1602f77a3d5b53e0800000000000000
+      internalID: -2063953498517404131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_55
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 77
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814340ed0e4db4c00800000000000000
+      internalID: 886035813971014680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosionPlayer
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 23
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f1870f00dd25070800000000000000
+      internalID: 8093774476442345238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_57
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 51
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c513a3bea083240800000000000000
+      internalID: 4771575810608946185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_60
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 51
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c598f2a4e25249500800000000000000
+      internalID: 401987147486169436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_61
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 24
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92408a0dda1141710800000000000000
+      internalID: 1662973600634242089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceinvader_62
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 36
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34351ac46f5eecc20800000000000000
+      internalID: 3228770828881580867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spaceinvader_13: -3636168681333770603
+      spaceinvader_50: 8619604619784351406
+      spaceinvader_16: -4705494001870609717
+      spaceinvader_60: 401987147486169436
+      spaceinvader_48: -589011836130802027
+      spaceinvader_8: -1352857888874003375
+      spaceinvader_30: 2320704150013912140
+      spaceinvader_4: 4223723784650292337
+      spaceinvader_40: -5654898022403703727
+      spaceinvader_22: 1825995359821943806
+      spaceinvader_1: -3257566633510956351
+      spaceinvader_5: 1279052194308740301
+      spaceinvader_2: -6781747270400854776
+      spaceinvader_32: -7547127698877712996
+      spaceinvader_33: -8111012346935821619
+      UFO: 9049468215900604364
+      spaceinvader_36: 1245435145972623210
+      spaceinvader_26: 5700284076030339470
+      spaceinvader_20: 1309868413730690584
+      spaceinvader_25: 8868095608872490556
+      spaceinvader_53: -2021615743172225856
+      spaceinvader_10: -1022902609091425598
+      spaceinvader_15: -4252258007180232652
+      spaceinvader_57: 4771575810608946185
+      spaceinvader_23: 2285597184195345041
+      spaceinvader_0: 6473092491821904902
+      spaceinvader_37: -6996132717923532206
+      spaceinvader_11: 9065332816220534304
+      ExplosionEnemy: -1382092820135302358
+      spaceinvader_54: -2063953498517404131
+      spaceinvader_9: -7484862748790947879
+      spaceinvader_43: 6698026400703759928
+      spaceinvader_12: 708363735641451229
+      spaceinvader_27: 488200340967754379
+      player: -7965988436120356788
+      spaceinvader_51: 9082039607636107652
+      spaceinvader_21: 7956510213537500462
+      spaceinvader_52: -7017426373866741266
+      spaceinvader_39: -1709495388118857037
+      spaceinvader_55: 886035813971014680
+      spaceinvader_18: -1403930171452101004
+      spaceinvader_35: 7800137925777050820
+      spaceinvader_28: -72090802888882623
+      spaceinvader_24: -9111057891201599345
+      ExplosionPlayer: 8093774476442345238
+      spaceinvader_3: -8934140856567888108
+      spaceinvader_6: 8542761975124045354
+      spaceinvader_7: -8473686074481035228
+      spaceinvader_17: 4724953335428049132
+      spaceinvader_61: 1662973600634242089
+      spaceinvader_34: 4335339108558841498
+      spaceinvader_31: -9221900205581657094
+      spaceinvader_29: 1771199124318434397
+      spaceinvader_49: -4859021803497821484
+      spaceinvader_38: 3089182879943499997
+      spaceinvader_62: 3228770828881580867
+      spaceinvader_14: -6867976613372663256
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

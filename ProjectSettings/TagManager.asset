@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Scenary
+  - Destroyer
+  - Base
+  - Game3/UFO
+  - Game3/BulletPlayer
+  - Game3/BulletEnemy
+  - Game3/Limits
+  - Game3/Enemy
+  - Game3/Player
+  - Game2/Ball
+  - Game2/Wall
+  - Game1/Enemy
+  - Game1/Coin
+  - Game1/Walls
+  - Game1/Pipe
+  - Game1/Missile
+  - Menu/LanguageManager
+  - Game7/JumpArea
+  - Game7/Barrel
+  - Game7/Mallet
+  - Game7/Flame
+  - Game7/Ladders
+  - Game7/MalletHit
+  - Game7/Walls
+  - Game5/Border
+  - Game8/Destructor
+  - Game8/Water
+  - Game8/DeathZone
+  - Game8/Car1
+  - Game8/Car2
+  - Game8/Car3
+  - Game8/Car4
+  - Game8/Car5
+  - Game8/Crocodile
+  - Game8/Trunk1
+  - Game8/Trunk2
+  - Game8/Trunk3
+  - Game8/Turtle1
+  - Game8/Turtle2
+  - Game8/Turtle3
+  - Game8/Turtle4
+  - Game5/Food
+  - Game5/RedFood
+  - Game5/Tail
+  - Game1/Ground
+  - Menu/SaveManager
+  - Game12/Bubble
+  - Game12/BubbleColor
+  - Game12/Spike3
+  - Game12/Spike1
+  - Game12/Spike4
+  - Game12/Magnet
+  - Game12/Spike2
+  - Game12/Destructor
+  - Game12/Spike5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - PostProcessing
+  - Mask1
+  - Mask2
+  - Mask3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: 94479cc1d74b77b468c88ab2a80c71c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1508998570005360264
+    second: Walking_Left1
+  - first:
+      213: 7972883102819829994
+    second: Walking_Left2
+  - first:
+      213: 8095774891914312382
+    second: Iddle_Left
+  - first:
+      213: 540395488054431216
+    second: Iddle_Right
+  - first:
+      213: 3353412898276305647
+    second: Walking_Right1
+  - first:
+      213: 8609258699399443021
+    second: Walking_Right2
+  - first:
+      213: 35278334507774771
+    second: kong-sprites_6
+  - first:
+      213: 1715271476048254934
+    second: kong-sprites_7
+  - first:
+      213: -3950134884985470971
+    second: Ladders_Climb1
+  - first:
+      213: -289009772722005398
+    second: Ladders_Iddle
+  - first:
+      213: 6731000967906063275
+    second: Ladders_Climb2
+  - first:
+      213: -2986915210584500776
+    second: kong-sprites_11
+  - first:
+      213: -7375863549001961293
+    second: kong-sprites_12
+  - first:
+      213: 8173375727340907132
+    second: kong-sprites_13
+  - first:
+      213: -1935501973315637352
+    second: kong-sprites_14
+  - first:
+      213: -1118163240810807994
+    second: kong-sprites_15
+  - first:
+      213: 526104784910476351
+    second: kong-sprites_16
+  - first:
+      213: -5892208483679794781
+    second: kong-sprites_17
+  - first:
+      213: -2813304636423724701
+    second: kong-sprites_18
+  - first:
+      213: 7176688840474656595
+    second: kong-sprites_19
+  - first:
+      213: 6802227991539249170
+    second: kong-sprites_20
+  - first:
+      213: -5049963731912633506
+    second: kong-sprites_21
+  - first:
+      213: 5531648188360081217
+    second: kong-sprites_22
+  - first:
+      213: -3190962056775663272
+    second: Mario_Mallet1
+  - first:
+      213: 9077656437873327638
+    second: Mario_Mallet2
+  - first:
+      213: 7480666140187896898
+    second: Mario_Mallet3
+  - first:
+      213: 4923301686151482217
+    second: Mario_Fail
+  - first:
+      213: -9140120005694755388
+    second: kong-sprites_27
+  - first:
+      213: -797071279259061320
+    second: kong-sprites_28
+  - first:
+      213: -2745621844165933350
+    second: kong-sprites_29
+  - first:
+      213: 1360583345656718840
+    second: kong-sprites_30
+  - first:
+      213: -3666392044418413287
+    second: Mario_Rolling2
+  - first:
+      213: 3572779469696241770
+    second: Mario_Rolling1
+  - first:
+      213: 5198868258740569674
+    second: Mario_Rolling4
+  - first:
+      213: 7186817580579000864
+    second: Mario_Rolling3
+  - first:
+      213: 953685147612081875
+    second: kong-sprites_35
+  - first:
+      213: -1357648694321909978
+    second: kong-sprites_36
+  - first:
+      213: -5232469861342483735
+    second: Princess1
+  - first:
+      213: 5167037380057072982
+    second: Princess2
+  - first:
+      213: 5279325528799451788
+    second: Kong_Movement2
+  - first:
+      213: 4935216334610415461
+    second: kong-sprites_40
+  - first:
+      213: 7381335742886518029
+    second: Kong_Movement1
+  - first:
+      213: 3634825896353646515
+    second: Kong_Movement3
+  - first:
+      213: -846490004914030835
+    second: kong-sprites_43
+  - first:
+      213: -5412947327151443218
+    second: Kong_Movement4
+  - first:
+      213: 620385624168280393
+    second: kong-sprites_45
+  - first:
+      213: 6964457888362008756
+    second: kong-sprites_46
+  - first:
+      213: 8348461294202342218
+    second: kong-sprites_47
+  - first:
+      213: 6468959270607430237
+    second: kong-sprites_48
+  - first:
+      213: -8616425357298254269
+    second: kong-sprites_49
+  - first:
+      213: 5173802762712568776
+    second: kong-sprites_50
+  - first:
+      213: -5814673247988727675
+    second: kong-sprites_51
+  - first:
+      213: 6178322882137753094
+    second: kong-sprites_52
+  - first:
+      213: -4538125773747975745
+    second: kong-sprites_53
+  - first:
+      213: -2225898189340519534
+    second: Flame1
+  - first:
+      213: -857803477080858194
+    second: Flame2
+  - first:
+      213: -6700528560426388493
+    second: kong-sprites_56
+  - first:
+      213: 560346929704767166
+    second: kong-sprites_57
+  - first:
+      213: -4174486219359723055
+    second: kong-sprites_58
+  - first:
+      213: -1025047119778451360
+    second: kong-sprites_59
+  - first:
+      213: 5126891180335478865
+    second: kong-sprites_60
+  - first:
+      213: 5930781308961619587
+    second: kong-sprites_61
+  - first:
+      213: -7680367648891941201
+    second: kong-sprites_62
+  - first:
+      213: 949765375274274241
+    second: kong-sprites_63
+  - first:
+      213: 1084201092736409483
+    second: kong-sprites_64
+  - first:
+      213: -273772408039172776
+    second: Barrel_Moving1
+  - first:
+      213: 4785179265734938031
+    second: Barrel_Moving2
+  - first:
+      213: 5131848587275171857
+    second: Barrel_Ladders1
+  - first:
+      213: 6471446202572723430
+    second: Barrel_Iddle
+  - first:
+      213: 1370457309899586606
+    second: Drum1
+  - first:
+      213: -2827935931664648174
+    second: Drum2
+  - first:
+      213: 3906960440022206176
+    second: kong-sprites_71
+  - first:
+      213: -4708243694193875368
+    second: Mallet
+  - first:
+      213: 1135142831100090556
+    second: Barrel_Moving4
+  - first:
+      213: 7385559394220512210
+    second: Barrel_Moving3
+  - first:
+      213: -7896080002737801964
+    second: Barrel_Ladders2
+  - first:
+      213: 8280498181546883921
+    second: kong-sprites_76
+  - first:
+      213: -6690226488633637513
+    second: Heart
+  - first:
+      213: 2179721966230776540
+    second: Floor
+  - first:
+      213: -2869697090155938150
+    second: Ladder
+  - first:
+      213: -3454797783899364489
+    second: Help
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walking_Left1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 268
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871124cabc5fe0be0800000000000000
+      internalID: -1508998570005360264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking_Left2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 268
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae84a4b90fe55ae60800000000000000
+      internalID: 7972883102819829994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_Left
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 268
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba3416fe58f95070800000000000000
+      internalID: 8095774891914312382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_Right
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 268
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd45bf45dedf7700800000000000000
+      internalID: 540395488054431216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking_Right1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 268
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feae8fa8347b98e20800000000000000
+      internalID: 3353412898276305647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking_Right2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 268
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42352d5c2b3a7770800000000000000
+      internalID: 8609258699399443021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 248
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3337a9455755d7000800000000000000
+      internalID: 35278334507774771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 248
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7573fc15eddc710800000000000000
+      internalID: 1715271476048254934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_Climb1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 248
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5000095304d4e29c0800000000000000
+      internalID: -3950134884985470971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_Iddle
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 248
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ad948942b3dfbf0800000000000000
+      internalID: -289009772722005398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_Climb2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 248
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f9dac7b1596d50800000000000000
+      internalID: 6731000967906063275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 248
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d556eaf0785c86d0800000000000000
+      internalID: -2986915210584500776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 248
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b07cf16e2ba3a990800000000000000
+      internalID: -7375863549001961293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 216
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a64fb6be9ad6170800000000000000
+      internalID: 8173375727340907132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 216
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f2472c537b325e0800000000000000
+      internalID: -1935501973315637352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 216
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d729ee47c7b70f0800000000000000
+      internalID: -1118163240810807994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 216
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34e833b3891d4700800000000000000
+      internalID: 526104784910476351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 216
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a909b33a9baa3ea0800000000000000
+      internalID: -5892208483679794781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 216
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3612105b65225f8d0800000000000000
+      internalID: -2813304636423724701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f70080a78b89360800000000000000
+      internalID: 7176688840474656595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 184
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2107aec815e566e50800000000000000
+      internalID: 6802227991539249170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 184
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53ddbeddbceae9b0800000000000000
+      internalID: -5049963731912633506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 184
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fb2a928bc54cc40800000000000000
+      internalID: 5531648188360081217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Mallet1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 184
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85103227aec67b3d0800000000000000
+      internalID: -3190962056775663272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Mallet2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 184
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.25, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e3a7c4f605afd70800000000000000
+      internalID: 9077656437873327638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Mallet3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 184
+        width: 13
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c2131683aa0d760800000000000000
+      internalID: 7480666140187896898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Fail
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b042d7cc4135440800000000000000
+      internalID: 4923301686151482217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd6f100845c72180800000000000000
+      internalID: -9140120005694755388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_28
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f81305eb30f4f0800000000000000
+      internalID: -797071279259061320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6cfeaca7795e9d0800000000000000
+      internalID: -2745621844165933350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f56e2d1853c1e210800000000000000
+      internalID: 1360583345656718840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Rolling2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d4f196cdb5e1dc0800000000000000
+      internalID: -3666392044418413287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Rolling1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a609d009fff059130800000000000000
+      internalID: 3572779469696241770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Rolling4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a460944f227162840800000000000000
+      internalID: 5198868258740569674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Rolling3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02291fb1384bcb360800000000000000
+      internalID: 7186817580579000864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 139
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deebf2c69b2c3d00800000000000000
+      internalID: 953685147612081875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_36
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 139
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f6b25a4b9a82de0800000000000000
+      internalID: -1357648694321909978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princess1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 139
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea6eb842688267b0800000000000000
+      internalID: -5232469861342483735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princess2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 139
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655877bfe1105b740800000000000000
+      internalID: 5167037380057072982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kong_Movement2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a1ebde89ee34940800000000000000
+      internalID: 5279325528799451788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 103
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fb822cb196d7440800000000000000
+      internalID: 4935216334610415461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kong_Movement1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 103
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d15aa00c5cf6660800000000000000
+      internalID: 7381335742886518029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kong_Movement3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 103
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7cc8405ee717230800000000000000
+      internalID: 3634825896353646515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_43
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 103
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d073e2f43d9a044f0800000000000000
+      internalID: -846490004914030835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kong_Movement4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 103
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2fc31c51951e4b0800000000000000
+      internalID: -5412947327151443218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 68
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9413f40307d0c9800800000000000000
+      internalID: 620385624168280393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 68
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b01cf8dc89b6a060800000000000000
+      internalID: 6964457888362008756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 68
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b4706a051bbd370800000000000000
+      internalID: 8348461294202342218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_48
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 68
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a60fbe2c56c950800000000000000
+      internalID: 6468959270607430237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 68
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eb1901ace4c6880800000000000000
+      internalID: -8616425357298254269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 68
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3da61633a0dc740800000000000000
+      internalID: 5173802762712568776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5804aa80d712e4fa0800000000000000
+      internalID: -5814673247988727675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_52
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 50
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6060d795defcdb550800000000000000
+      internalID: 6178322882137753094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 50
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb905bd17a65501c0800000000000000
+      internalID: -4538125773747975745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 50
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2935c2ed3650c11e0800000000000000
+      internalID: -2225898189340519534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 50
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1208d48487814f0800000000000000
+      internalID: -857803477080858194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 50
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3fc6476c0f203a0800000000000000
+      internalID: -6700528560426388493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 35
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe88005090c6c700800000000000000
+      internalID: 560346929704767166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 35
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ec4f96ee3116c0800000000000000
+      internalID: -4174486219359723055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_59
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 35
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0607193531d46c1f0800000000000000
+      internalID: -1025047119778451360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_60
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158baf57d50662740800000000000000
+      internalID: 5126891180335478865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 35
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38efe298d2e5e4250800000000000000
+      internalID: 5930781308961619587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_62
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 35
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faec46fc05ad96590800000000000000
+      internalID: -7680367648891941201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 35
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd4035a39e3e2d00800000000000000
+      internalID: 949765375274274241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 35
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fd4a5462bdb0f00800000000000000
+      internalID: 1084201092736409483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel_Moving1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 19
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8559585027d533cf0800000000000000
+      internalID: -273772408039172776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel_Moving2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 19
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad02b0703f586240800000000000000
+      internalID: 4785179265734938031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel_Ladders1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11870a5b91df73740800000000000000
+      internalID: 5131848587275171857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel_Iddle
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 7
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4d567b8023fc950800000000000000
+      internalID: 6471446202572723430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 7
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cf66099a7d40310800000000000000
+      internalID: 1370457309899586606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218b091d04721c8d0800000000000000
+      internalID: -2827935931664648174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_71
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6070bf1df483630800000000000000
+      internalID: 3906960440022206176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallet
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 7
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856e9933e45f8aeb0800000000000000
+      internalID: -4708243694193875368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel_Moving4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb85d010466d0cf00800000000000000
+      internalID: 1135142831100090556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel_Moving3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d310108327ce7660800000000000000
+      internalID: 7385559394220512210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel_Ladders2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4157fbe921d7b6290800000000000000
+      internalID: -7896080002737801964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kong-sprites_76
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 7
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bbe52693d3ae270800000000000000
+      internalID: 8280498181546883921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7754516747a8723a0800000000000000
+      internalID: -6690226488633637513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 7
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda2d42649def3e10800000000000000
+      internalID: 2179721966230776540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 9
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e784863b9cc28d0800000000000000
+      internalID: -2869697090155938150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Help
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 151
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7732fd748b71e00d0800000000000000
+      internalID: -3454797783899364489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Iddle_Right: 540395488054431216
+      Princess1: -5232469861342483735
+      kong-sprites_47: 8348461294202342218
+      kong-sprites_56: -6700528560426388493
+      kong-sprites_71: 3906960440022206176
+      kong-sprites_43: -846490004914030835
+      kong-sprites_51: -5814673247988727675
+      Princess2: 5167037380057072982
+      Drum2: -2827935931664648174
+      Heart: -6690226488633637513
+      Walking_Right1: 3353412898276305647
+      Ladder: -2869697090155938150
+      kong-sprites_61: 5930781308961619587
+      kong-sprites_46: 6964457888362008756
+      kong-sprites_19: 7176688840474656595
+      Kong_Movement4: -5412947327151443218
+      kong-sprites_50: 5173802762712568776
+      kong-sprites_52: 6178322882137753094
+      Kong_Movement2: 5279325528799451788
+      kong-sprites_16: 526104784910476351
+      kong-sprites_20: 6802227991539249170
+      Barrel_Moving4: 1135142831100090556
+      kong-sprites_30: 1360583345656718840
+      kong-sprites_28: -797071279259061320
+      Mario_Rolling2: -3666392044418413287
+      Drum1: 1370457309899586606
+      Mario_Rolling1: 3572779469696241770
+      Mario_Mallet1: -3190962056775663272
+      Mario_Rolling3: 7186817580579000864
+      kong-sprites_40: 4935216334610415461
+      kong-sprites_12: -7375863549001961293
+      kong-sprites_29: -2745621844165933350
+      Walking_Right2: 8609258699399443021
+      kong-sprites_15: -1118163240810807994
+      kong-sprites_11: -2986915210584500776
+      Mario_Mallet3: 7480666140187896898
+      kong-sprites_58: -4174486219359723055
+      kong-sprites_60: 5126891180335478865
+      Help: -3454797783899364489
+      kong-sprites_62: -7680367648891941201
+      Flame1: -2225898189340519534
+      kong-sprites_59: -1025047119778451360
+      Mario_Mallet2: 9077656437873327638
+      Barrel_Ladders1: 5131848587275171857
+      Barrel_Moving3: 7385559394220512210
+      Kong_Movement3: 3634825896353646515
+      kong-sprites_6: 35278334507774771
+      Mario_Fail: 4923301686151482217
+      kong-sprites_7: 1715271476048254934
+      kong-sprites_35: 953685147612081875
+      Kong_Movement1: 7381335742886518029
+      kong-sprites_17: -5892208483679794781
+      kong-sprites_48: 6468959270607430237
+      kong-sprites_63: 949765375274274241
+      kong-sprites_18: -2813304636423724701
+      Barrel_Iddle: 6471446202572723430
+      Ladders_Iddle: -289009772722005398
+      kong-sprites_14: -1935501973315637352
+      Barrel_Moving2: 4785179265734938031
+      kong-sprites_27: -9140120005694755388
+      kong-sprites_53: -4538125773747975745
+      Walking_Left2: 7972883102819829994
+      kong-sprites_57: 560346929704767166
+      Floor: 2179721966230776540
+      Ladders_Climb2: 6731000967906063275
+      kong-sprites_21: -5049963731912633506
+      Mallet: -4708243694193875368
+      Barrel_Ladders2: -7896080002737801964
+      kong-sprites_22: 5531648188360081217
+      Walking_Left1: -1508998570005360264
+      kong-sprites_64: 1084201092736409483
+      Barrel_Moving1: -273772408039172776
+      kong-sprites_76: 8280498181546883921
+      kong-sprites_36: -1357648694321909978
+      kong-sprites_13: 8173375727340907132
+      Mario_Rolling4: 5198868258740569674
+      Iddle_Left: 8095774891914312382
+      Ladders_Climb1: -3950134884985470971
+      kong-sprites_45: 620385624168280393
+      kong-sprites_49: -8616425357298254269
+      Flame2: -857803477080858194
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

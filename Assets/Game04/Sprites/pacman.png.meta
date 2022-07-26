@@ -1,0 +1,5527 @@
+fileFormatVersion: 2
+guid: 926b7b4e49421944b83bb476778653b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6679698536114150705
+    second: pacman_0
+  - first:
+      213: -6846246853087037126
+    second: pacman_1
+  - first:
+      213: -343595675399140622
+    second: pacman_2
+  - first:
+      213: -4576091372461162260
+    second: pacman_3
+  - first:
+      213: 469561110914596722
+    second: pacman_4
+  - first:
+      213: 1233117339249576371
+    second: pacman_5
+  - first:
+      213: 5837186894641243381
+    second: die1
+  - first:
+      213: 7643592245220978941
+    second: pacman_7
+  - first:
+      213: 811491971189859559
+    second: pacman_8
+  - first:
+      213: 905349130636697944
+    second: fruit1
+  - first:
+      213: -2389268959542402154
+    second: redright1
+  - first:
+      213: -7286219196981311097
+    second: pinkright1
+  - first:
+      213: 852037633413485090
+    second: blueright1
+  - first:
+      213: 760343955179998700
+    second: orangeright1
+  - first:
+      213: -3325782504466155778
+    second: move_right1
+  - first:
+      213: -4866129279478624021
+    second: pacman_15
+  - first:
+      213: 6574030849462677112
+    second: pacman_16
+  - first:
+      213: -5076354210007895842
+    second: pacman_17
+  - first:
+      213: 8361050780753816147
+    second: pacman_18
+  - first:
+      213: -1088084366316364721
+    second: pacman_19
+  - first:
+      213: 4932332716721441163
+    second: pacman_20
+  - first:
+      213: -1518011583465441527
+    second: pacman_21
+  - first:
+      213: -5898472318622259078
+    second: die2
+  - first:
+      213: 2045119475864554641
+    second: pacman_23
+  - first:
+      213: -7222132463908826359
+    second: pacman_24
+  - first:
+      213: -4725083937755954734
+    second: fruit2
+  - first:
+      213: 6947062779613437982
+    second: redright2
+  - first:
+      213: 1730040498318511708
+    second: pinkright2
+  - first:
+      213: -8768996980482142673
+    second: blueright2
+  - first:
+      213: 8209479614911278587
+    second: orangeright2
+  - first:
+      213: -1072770987151351910
+    second: move_right2
+  - first:
+      213: 2785431683568296644
+    second: pacman_31
+  - first:
+      213: -1721566011623702696
+    second: pacman_32
+  - first:
+      213: 3204918198745873560
+    second: pacman_33
+  - first:
+      213: -1903558350907539637
+    second: pacman_34
+  - first:
+      213: -3114784291052628830
+    second: pacman_35
+  - first:
+      213: -9099071105552488988
+    second: pacman_36
+  - first:
+      213: 6204552519194196234
+    second: pacman_37
+  - first:
+      213: 530171637729556955
+    second: die3
+  - first:
+      213: 5417905091366733664
+    second: pacman_39
+  - first:
+      213: -468136273949028545
+    second: fruit3
+  - first:
+      213: 5075582607559204779
+    second: reddown1
+  - first:
+      213: 4391538855646613132
+    second: pinkdown1
+  - first:
+      213: 7890487982619634354
+    second: bluedown1
+  - first:
+      213: -8883911104581167381
+    second: orangedown1
+  - first:
+      213: 1590761343039026616
+    second: move_right3
+  - first:
+      213: 6419345824998226305
+    second: pacman_46
+  - first:
+      213: -213011915107415318
+    second: pacman_47
+  - first:
+      213: 1856060509188357805
+    second: pacman_48
+  - first:
+      213: -4121570435306515796
+    second: pacman_49
+  - first:
+      213: 1083463668974058304
+    second: pacman_50
+  - first:
+      213: -6975469502024871128
+    second: pacman_51
+  - first:
+      213: -4934117032904677078
+    second: pacman_52
+  - first:
+      213: 4625177204980712441
+    second: die4
+  - first:
+      213: -3642914101295106462
+    second: pacman_54
+  - first:
+      213: 7751918403986290470
+    second: pacman_55
+  - first:
+      213: 3398476748516274728
+    second: fruit4
+  - first:
+      213: 8278381593735536675
+    second: reddown2
+  - first:
+      213: 6126012214454408452
+    second: pinkdown2
+  - first:
+      213: -5373553299308548557
+    second: bluedown2
+  - first:
+      213: 99390506279117045
+    second: orangedown2
+  - first:
+      213: -365622042387100474
+    second: move_down1
+  - first:
+      213: 3485138161151124234
+    second: pacman_62
+  - first:
+      213: 8085485750551350137
+    second: pacman_63
+  - first:
+      213: -7157907889205322563
+    second: pacman_64
+  - first:
+      213: 4913098273406281060
+    second: pacman_65
+  - first:
+      213: -2199232448168312711
+    second: pacman_66
+  - first:
+      213: 1202898675520564615
+    second: pacman_67
+  - first:
+      213: -3996632382485662137
+    second: pacman_68
+  - first:
+      213: -4641593556401243107
+    second: pacman_69
+  - first:
+      213: -5781697233919323984
+    second: pacman_70
+  - first:
+      213: 1570530483546257971
+    second: pacman_71
+  - first:
+      213: -1156998364585794188
+    second: fruit5
+  - first:
+      213: 6468247184893952535
+    second: redleft1
+  - first:
+      213: 7023321671985514165
+    second: pinkleft1
+  - first:
+      213: -9090272414779283912
+    second: blueleft1
+  - first:
+      213: 1199085405180122605
+    second: orangeleft1
+  - first:
+      213: 7239110377395780158
+    second: move_down2
+  - first:
+      213: -4391301972812700894
+    second: pacman_78
+  - first:
+      213: -5997836065994344585
+    second: die11
+  - first:
+      213: 7481133298048092207
+    second: d
+  - first:
+      213: -3542351134821532599
+    second: pacman_81
+  - first:
+      213: 6772420819199850202
+    second: pacman_82
+  - first:
+      213: -7126196899866054246
+    second: pacman_83
+  - first:
+      213: 6728708983717406095
+    second: pacman_84
+  - first:
+      213: -7402994828164219267
+    second: pacman_85
+  - first:
+      213: -314997752656561238
+    second: pacman_86
+  - first:
+      213: 6231000246559611398
+    second: pacman_87
+  - first:
+      213: -8434962937658212658
+    second: pacman_88
+  - first:
+      213: 385177229733503175
+    second: pacman_89
+  - first:
+      213: 2361783361845324971
+    second: pacman_90
+  - first:
+      213: 4126348867428354743
+    second: redleft2
+  - first:
+      213: -854883340154228319
+    second: pinkleft2
+  - first:
+      213: -6989376462542738776
+    second: blueleft2
+  - first:
+      213: 4674271249595719574
+    second: orangeleft2
+  - first:
+      213: 418544820543888437
+    second: move_down3
+  - first:
+      213: -3111318921074655546
+    second: pacman_96
+  - first:
+      213: -9077022251161238014
+    second: eyesleft
+  - first:
+      213: -6091288557474515513
+    second: fruitscore10
+  - first:
+      213: 8817453470627076170
+    second: die11
+  - first:
+      213: -6348530484848834107
+    second: d
+  - first:
+      213: -3982333591839094159
+    second: pacman_101
+  - first:
+      213: -576571309850959191
+    second: pacman_102
+  - first:
+      213: 2558827914957843044
+    second: pacman_103
+  - first:
+      213: 6509258850996988472
+    second: pacman_104
+  - first:
+      213: -4639498317344951879
+    second: pacman_105
+  - first:
+      213: 3842763254894037910
+    second: pacman_106
+  - first:
+      213: -788933442588730053
+    second: pacman_107
+  - first:
+      213: 5003827080538803226
+    second: eyesdown
+  - first:
+      213: 8679524793358328781
+    second: fruitscore30
+  - first:
+      213: 5678226969286239253
+    second: die11
+  - first:
+      213: -4251310486770828795
+    second: pacman_111
+  - first:
+      213: -1895812810929692483
+    second: pacman_112
+  - first:
+      213: -421126632148878299
+    second: pacman_113
+  - first:
+      213: 1554833827577949695
+    second: redup1
+  - first:
+      213: -382207372108698142
+    second: pinkup1
+  - first:
+      213: 3160471035554717807
+    second: blueup1
+  - first:
+      213: 560038181757300857
+    second: orangeup1
+  - first:
+      213: 1085813034733001922
+    second: move_left1
+  - first:
+      213: -3728076063186350077
+    second: pacman_119
+  - first:
+      213: -3802224459624056356
+    second: pacman_120
+  - first:
+      213: -7133503749351487074
+    second: pacman_121
+  - first:
+      213: -3362117517614519058
+    second: pacman_122
+  - first:
+      213: -8015846914358519947
+    second: pacman_123
+  - first:
+      213: 6386950784423942010
+    second: pacman_124
+  - first:
+      213: 4195674842273370707
+    second: pacman_125
+  - first:
+      213: 5083283105747020897
+    second: eyeslef
+  - first:
+      213: 1602352099269637906
+    second: fruitscore50
+  - first:
+      213: -3280839261339525691
+    second: pacman_128
+  - first:
+      213: 2494607299148517379
+    second: pacman_129
+  - first:
+      213: -8672108319105040561
+    second: fruit6
+  - first:
+      213: 3646671478859281505
+    second: redup2
+  - first:
+      213: 7440728748897910019
+    second: pinkup2
+  - first:
+      213: -8594232592445040695
+    second: blueup2
+  - first:
+      213: 567991060486702444
+    second: orangeup2
+  - first:
+      213: 3794638696590498646
+    second: move_left2
+  - first:
+      213: -4280355474048737648
+    second: pacman_136
+  - first:
+      213: 93717570663639534
+    second: die11
+  - first:
+      213: -5542975952814760847
+    second: pacman_138
+  - first:
+      213: 851172708535539081
+    second: eyesright
+  - first:
+      213: -4688348371533857580
+    second: fruitscore70
+  - first:
+      213: -5174810943269518817
+    second: pacman_141
+  - first:
+      213: 4516267370533775314
+    second: pacman_142
+  - first:
+      213: -7381859398454205511
+    second: fruit7
+  - first:
+      213: 3199835165578219344
+    second: move_left3
+  - first:
+      213: 7152724383265566810
+    second: pacman_145
+  - first:
+      213: -7921711216851699125
+    second: die11
+  - first:
+      213: 7430124997116113414
+    second: pacman_147
+  - first:
+      213: 2149787671512219861
+    second: die11
+  - first:
+      213: 1242338636292981707
+    second: pacman_149
+  - first:
+      213: 190094288787506036
+    second: pacman_150
+  - first:
+      213: -579385700074230096
+    second: pacman_151
+  - first:
+      213: 5112811880275959779
+    second: fruit8
+  - first:
+      213: -5774763338125271258
+    second: move_up1
+  - first:
+      213: 7154220849072971759
+    second: pacman_154
+  - first:
+      213: -2121637749866329576
+    second: pacman_155
+  - first:
+      213: 7758809650240636146
+    second: fruitscore100
+  - first:
+      213: 7281915858039674301
+    second: fruitscore200
+  - first:
+      213: 2230890308455463345
+    second: pacman_158
+  - first:
+      213: 8300770042537894628
+    second: pacman_159
+  - first:
+      213: 6905943769122279403
+    second: move_up2
+  - first:
+      213: 9095582537246752455
+    second: pacman_161
+  - first:
+      213: -3033043588710815929
+    second: fruitscore300
+  - first:
+      213: -8228452327098978166
+    second: fruitscore500
+  - first:
+      213: -2482877371724504668
+    second: die11
+  - first:
+      213: -3839885271669794293
+    second: pacman_165
+  - first:
+      213: 1234729066446321369
+    second: pacman_166
+  - first:
+      213: -3780605984745280554
+    second: deadblu1
+  - first:
+      213: 5668582053100801924
+    second: deadwhite1
+  - first:
+      213: -4244223396790114175
+    second: pacman_169
+  - first:
+      213: -7242206501446887698
+    second: pacman_170
+  - first:
+      213: 1097026869610343194
+    second: pacman_171
+  - first:
+      213: -6338879642626205997
+    second: move_up3
+  - first:
+      213: -5140429866416520420
+    second: pacman_173
+  - first:
+      213: 7703318291461892607
+    second: deadblu2
+  - first:
+      213: -2701328601090637810
+    second: deadwhite2
+  - first:
+      213: -7061452150649397559
+    second: pacman_176
+  - first:
+      213: -2711988198875251741
+    second: pacman_177
+  - first:
+      213: -5379896061984196650
+    second: number20
+  - first:
+      213: -4043308328601229609
+    second: pacman_179
+  - first:
+      213: -471055534085627392
+    second: number40
+  - first:
+      213: 3029032873675844831
+    second: pacman_181
+  - first:
+      213: 7693171163705460191
+    second: pacman_182
+  - first:
+      213: 7522398309424457047
+    second: pacman_183
+  - first:
+      213: -4170408935433789492
+    second: number80
+  - first:
+      213: -4658830209462436760
+    second: number160
+  - first:
+      213: -3733375917021432733
+    second: pacman_186
+  - first:
+      213: -4134889871958778813
+    second: pacman_187
+  - first:
+      213: 284775956767103026
+    second: pacman_188
+  - first:
+      213: 8457112705210106225
+    second: life_pacman
+  - first:
+      213: 1439633234959975697
+    second: pacman_190
+  - first:
+      213: 2981934692026897820
+    second: pacman_191
+  - first:
+      213: -6712556242874411682
+    second: pacman_192
+  - first:
+      213: -5970069166506298603
+    second: pacman_193
+  - first:
+      213: 6867462940749020605
+    second: pacman_194
+  - first:
+      213: 3942640988661929328
+    second: pacman_195
+  - first:
+      213: -5542504567900300346
+    second: pacman_196
+  - first:
+      213: 739409550820423602
+    second: pacman_197
+  - first:
+      213: -7525660424751192030
+    second: pacman_198
+  - first:
+      213: -8017453858978044259
+    second: pacman_199
+  - first:
+      213: 8154561648981661470
+    second: pacman_200
+  - first:
+      213: 3000600587525130107
+    second: pacman_201
+  - first:
+      213: -1104406901033078464
+    second: pacman_202
+  - first:
+      213: -6453903932147276833
+    second: pacman_203
+  - first:
+      213: -2458054241923693851
+    second: pacman_204
+  - first:
+      213: 1734081351729337908
+    second: pacman_205
+  - first:
+      213: -3969168393223335782
+    second: pacman_206
+  - first:
+      213: 3264704225436617795
+    second: pacman_207
+  - first:
+      213: -859689939782393858
+    second: pacman_208
+  - first:
+      213: -2525940919537092322
+    second: pacman_209
+  - first:
+      213: 5941911896614634751
+    second: pacman_210
+  - first:
+      213: 51210412045223968
+    second: pacman_211
+  - first:
+      213: -343658572392272233
+    second: pacman_212
+  - first:
+      213: 5147820222803073831
+    second: pacman_213
+  - first:
+      213: 5249145036125985110
+    second: pacman_214
+  - first:
+      213: 8959875330930671450
+    second: pacman_215
+  - first:
+      213: -5191531699176349795
+    second: pacman_216
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pacman_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 981
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dd7c39d6e03bc50800000000000000
+      internalID: 6679698536114150705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 981
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a397c1592ce3df0a0800000000000000
+      internalID: -6846246853087037126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 981
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa497dbd8d4b3bf0800000000000000
+      internalID: -343595675399140622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 981
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce009b454257e70c0800000000000000
+      internalID: -4576091372461162260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 981
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ff660b757348600800000000000000
+      internalID: 469561110914596722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 981
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9885ccfa9ec1110800000000000000
+      internalID: 1233117339249576371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 988
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f428aecd8ad10150800000000000000
+      internalID: 5837186894641243381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 981
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0b35846ae731a60800000000000000
+      internalID: 7643592245220978941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 979
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e46ad8f5aff24b00800000000000000
+      internalID: 811491971189859559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit1
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 981
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8512f41dc32709c00800000000000000
+      internalID: 905349130636697944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redright1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 981
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693ab994a8c97ded0800000000000000
+      internalID: -2389268959542402154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkright1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 981
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7890c409e3622ea90800000000000000
+      internalID: -7286219196981311097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueright1
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 981
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22210ea96bb03db00800000000000000
+      internalID: 852037633413485090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangeright1
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 981
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced8e9b7cc84d8a00800000000000000
+      internalID: 760343955179998700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_right1
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 982
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6f515de6278d1d0800000000000000
+      internalID: -3325782504466155778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_15
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 982
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be09c81c339087cb0800000000000000
+      internalID: -4866129279478624021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 931
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eaea41a36ab3b50800000000000000
+      internalID: 6574030849462677112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 931
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0bb6eddba2d89b0800000000000000
+      internalID: -5076354210007895842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 931
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a65d7e26b680470800000000000000
+      internalID: 8361050780753816147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 931
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c9e04a80956e0f0800000000000000
+      internalID: -1088084366316364721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 931
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b890836297a237440800000000000000
+      internalID: 4932332716721441163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 931
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9073d92f180feeae0800000000000000
+      internalID: -1518011583465441527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 938
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78ab0b7daa642ea0800000000000000
+      internalID: -5898472318622259078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_23
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 931
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cc32ae359b16c10800000000000000
+      internalID: 2045119475864554641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_24
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 931
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903d5efd9c4d5cb90800000000000000
+      internalID: -7222132463908826359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 931
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1072471312d6eb0800000000000000
+      internalID: -4725083937755954734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redright2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 931
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10623b7acce86060800000000000000
+      internalID: 6947062779613437982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkright2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 931
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e8055caa6520810800000000000000
+      internalID: 1730040498318511708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueright2
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 931
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e83e5d4b34e4680800000000000000
+      internalID: -8768996980482142673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangeright2
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 931
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfde89dc63eede170800000000000000
+      internalID: 8209479614911278587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_right2
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 932
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f9f719870cc11f0800000000000000
+      internalID: -1072770987151351910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_31
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 932
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2e43dbb57d7a620800000000000000
+      internalID: 2785431683568296644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 881
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f78cb65d4cb18e0800000000000000
+      internalID: -1721566011623702696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 881
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cbe621f182a7c20800000000000000
+      internalID: 3204918198745873560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 881
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f7dece3c33595e0800000000000000
+      internalID: -1903558350907539637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_35
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 881
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a457dba03016c4d0800000000000000
+      internalID: -3114784291052628830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 881
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e587d90b99b180800000000000000
+      internalID: -9099071105552488988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 881
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0933d0a4affa1650800000000000000
+      internalID: 6204552519194196234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 888
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd97bd8ab4c8b5700800000000000000
+      internalID: 530171637729556955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_39
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 881
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067c1bda9f3403b40800000000000000
+      internalID: 5417905091366733664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 881
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f0bc40a88d089f0800000000000000
+      internalID: -468136273949028545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reddown1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 881
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf97bf6d77107640800000000000000
+      internalID: 5075582607559204779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkdown1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 881
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e44246251e1fc30800000000000000
+      internalID: 4391538855646613132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluedown1
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 881
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba288cb305a08d60800000000000000
+      internalID: 7890487982619634354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangedown1
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 881
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be69a4b5be106b480800000000000000
+      internalID: -8883911104581167381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_right3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 882
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5b3466305831610800000000000000
+      internalID: 1590761343039026616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_46
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 882
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189f7654409161950800000000000000
+      internalID: 6419345824998226305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 831
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeac813baca3b0df0800000000000000
+      internalID: -213011915107415318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 831
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae7dc3033d02c910800000000000000
+      internalID: 1856060509188357805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_49
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 831
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca29dcea68d3dc6c0800000000000000
+      internalID: -4121570435306515796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_50
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 831
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b7d3c677c390f00800000000000000
+      internalID: 1083463668974058304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 831
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8239c3e0277223f90800000000000000
+      internalID: -6975469502024871128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 831
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29238d53be768bb0800000000000000
+      internalID: -4934117032904677078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 838
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f30c16a92eef2040800000000000000
+      internalID: 4625177204980712441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_54
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 840
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2663b050de4c17dc0800000000000000
+      internalID: -3642914101295106462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_55
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 828
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6277a6d87b8549b60800000000000000
+      internalID: 7751918403986290470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit4
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 831
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822bcbcc890d92f20800000000000000
+      internalID: 3398476748516274728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reddown2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 831
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3202db1e238b2e270800000000000000
+      internalID: 8278381593735536675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkdown2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 831
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405524ce6a7f30550800000000000000
+      internalID: 6126012214454408452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluedown2
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 831
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ee51d9ebd4d65b0800000000000000
+      internalID: -5373553299308548557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangedown2
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 831
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f020dc832b116100800000000000000
+      internalID: 99390506279117045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_down1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 832
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccc67980bc0deaf0800000000000000
+      internalID: -365622042387100474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_62
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 832
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03229841b2bd5030800000000000000
+      internalID: 3485138161151124234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 781
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b881e837a653070800000000000000
+      internalID: 8085485750551350137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_64
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 781
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc53f0f2b00aac90800000000000000
+      internalID: -7157907889205322563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 781
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46567f459d4de2440800000000000000
+      internalID: 4913098273406281060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 781
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9704a6c8db1ca71e0800000000000000
+      internalID: -2199232448168312711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 781
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78de03fd8fd81b010800000000000000
+      internalID: 1202898675520564615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_68
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 781
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467e10f50c1988c0800000000000000
+      internalID: -3996632382485662137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 806
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c36fea04fb59fb0800000000000000
+      internalID: -4641593556401243107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_70
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 789
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0516d9ff843cfa0800000000000000
+      internalID: -5781697233919323984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_71
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 778
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a72bc5725abc510800000000000000
+      internalID: 1570530483546257971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 778
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e7211e1481ffe0800000000000000
+      internalID: -1156998364585794188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redleft1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 781
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712460f5b84d3c950800000000000000
+      internalID: 6468247184893952535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkleft1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 781
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6cff979d9d77160800000000000000
+      internalID: 7023321671985514165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueleft1
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 781
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366c8da66dd8d180800000000000000
+      internalID: -9090272414779283912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangeleft1
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 781
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5dd1fa2d104a010800000000000000
+      internalID: 1199085405180122605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_down2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 782
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3af486a88c767460800000000000000
+      internalID: 7239110377395780158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_78
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 785
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223e6013f16fe03c0800000000000000
+      internalID: -4391301972812700894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 785
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777716930e763cca0800000000000000
+      internalID: 1553733398754915620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 786
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28c08b091352d760800000000000000
+      internalID: 6311199445447666015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 731
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cb24b396a07dec0800000000000000
+      internalID: -3542351134821532599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_82
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 731
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6fddd6ad87cfd50800000000000000
+      internalID: 6772420819199850202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_83
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 731
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a917efffca9aa1d90800000000000000
+      internalID: -7126196899866054246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_84
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 731
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85a473ab2d216d50800000000000000
+      internalID: 6728708983717406095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_85
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 731
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eb7313d67434990800000000000000
+      internalID: -7402994828164219267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_86
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 731
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabfbdf7637e0abf0800000000000000
+      internalID: -314997752656561238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_87
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 732
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a9e8306b5f87650800000000000000
+      internalID: 6231000246559611398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_88
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 759
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecefb4706edf0fa80800000000000000
+      internalID: -8434962937658212658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_89
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 728
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0a5d156ac685500800000000000000
+      internalID: 385177229733503175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_90
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 728
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bace73f447db6c020800000000000000
+      internalID: 2361783361845324971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redleft2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 731
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba076ebe6cb34930800000000000000
+      internalID: 4126348867428354743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkleft2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 731
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a135b9a128d224f0800000000000000
+      internalID: -854883340154228319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueleft2
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 731
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae9ac732fb00f90800000000000000
+      internalID: -6989376462542738776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangeleft2
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 731
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f59f7afe85ed040800000000000000
+      internalID: 4674271249595719574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_down3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 732
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c1917fb48fec500800000000000000
+      internalID: 418544820543888437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_96
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 742
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceb46efcef52d4d0800000000000000
+      internalID: -3111318921074655546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyesleft
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 746
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c73dca50f70280800000000000000
+      internalID: -9077022251161238014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 733
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a481344f633ed5a70800000000000000
+      internalID: -134283487687209521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 744
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9c8d4f82d75e7a0800000000000000
+      internalID: 7481133298048092207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_101
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 732
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a435192b8ebb8c0800000000000000
+      internalID: -3982333591839094159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_102
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 681
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2e6a0d27b9ff7f0800000000000000
+      internalID: -576571309850959191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_103
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 681
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a6a607e68c28320800000000000000
+      internalID: 2558827914957843044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_104
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 681
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a2ebcff68855a50800000000000000
+      internalID: 6509258850996988472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_105
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 681
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b1aa8cd03d9fb0800000000000000
+      internalID: -4639498317344951879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_106
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 681
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b02eb02dc345530800000000000000
+      internalID: 3842763254894037910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_107
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 681
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d9213c6352d05f0800000000000000
+      internalID: -788933442588730053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyesdown
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 694
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ccef4e73a217540800000000000000
+      internalID: 5003827080538803226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 680
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5146952185d1dce40800000000000000
+      internalID: 6189044251816775040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_111
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 691
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ab12ef2af4005c0800000000000000
+      internalID: -4251310486770828795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_112
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 678
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0a6ebfa48b0b5e0800000000000000
+      internalID: -1895812810929692483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_113
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 678
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c3f4d2f8bd72af0800000000000000
+      internalID: -421126632148878299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redup1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 681
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd6b89d021e39510800000000000000
+      internalID: 1554833827577949695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkup1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 681
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edecea8b6022baf0800000000000000
+      internalID: -382207372108698142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueup1
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 681
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60662579af3cdb20800000000000000
+      internalID: 3160471035554717807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangeup1
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 681
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970bc4452c7a5c700800000000000000
+      internalID: 560038181757300857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_left1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 682
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccdfb3c335911f00800000000000000
+      internalID: 1085813034733001922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_119
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 682
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300142e9296334cc0800000000000000
+      internalID: -3728076063186350077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 631
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd97ecfbff8cb3bc0800000000000000
+      internalID: -3802224459624056356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_121
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 631
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99ccf78224b00d90800000000000000
+      internalID: -7133503749351487074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_122
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 631
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece7755eeb5751d0800000000000000
+      internalID: -3362117517614519058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_123
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 631
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577dfbf73bdf1c090800000000000000
+      internalID: -8015846914358519947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_124
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 631
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77dd7f16e103a850800000000000000
+      internalID: 6386950784423942010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_125
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 631
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3525fb61a080a3a30800000000000000
+      internalID: 4195674842273370707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeslef
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 646
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cabc26d037b8640800000000000000
+      internalID: 5083283105747020897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_128
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 656
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdd3be031e1872d0800000000000000
+      internalID: -3280839261339525691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_129
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 628
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30018df1f10ae9220800000000000000
+      internalID: 2494607299148517379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit6
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 631
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fb80a3e6b76a780800000000000000
+      internalID: -8672108319105040561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redup2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 631
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164b4fd93649b9230800000000000000
+      internalID: 3646671478859281505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkup2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 631
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db81cdf57c24760800000000000000
+      internalID: 7440728748897910019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueup2
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 631
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c79a3acdf62bb880800000000000000
+      internalID: -8594232592445040695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orangeup2
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 631
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6548e33cd8e1e700800000000000000
+      internalID: 567991060486702444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_left2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 632
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b5a392ac349a430800000000000000
+      internalID: 3794638696590498646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_136
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 632
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e1de8ef5f1994c0800000000000000
+      internalID: -4280355474048737648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 630
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee96e9c42a3fc4100800000000000000
+      internalID: -4651420418089346247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_138
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 636
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c91f52db46313b0800000000000000
+      internalID: -5542975952814760847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyesright
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 601
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98594c69119ffcb00800000000000000
+      internalID: 851172708535539081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_141
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 594
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12cd9a4dd06f28b0800000000000000
+      internalID: -5174810943269518817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_142
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 578
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d76a5bce310dae30800000000000000
+      internalID: 4516267370533775314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 581
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b32245ecfd5e8990800000000000000
+      internalID: -7381859398454205511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_left3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 582
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fc7103129186c20800000000000000
+      internalID: 3199835165578219344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_145
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 582
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50b1d80ee4934360800000000000000
+      internalID: 7152724383265566810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 580
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ab35a8e9d601290800000000000000
+      internalID: 5536718853988682927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_147
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 531
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6023bd1815b1d1760800000000000000
+      internalID: 7430124997116113414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 533
+        width: 3
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d000074f7495dd10800000000000000
+      internalID: 4949383054373651383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_149
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 541
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38cf2586cad3110800000000000000
+      internalID: 1242338636292981707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_150
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 530
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473820d9fb953a200800000000000000
+      internalID: 190094288787506036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_151
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 531
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be622786cb95f7f0800000000000000
+      internalID: -579385700074230096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 531
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efde37f05b54f640800000000000000
+      internalID: 5112811880275959779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_up1
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 533
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f1819075bebdfa0800000000000000
+      internalID: -5774763338125271258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_154
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 533
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef10b125f5e84360800000000000000
+      internalID: 7154220849072971759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_155
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 481
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a882915bd6e82e0800000000000000
+      internalID: -2121637749866329576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_158
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 480
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b979507ae6b5fe10800000000000000
+      internalID: 2230890308455463345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_159
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 481
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2eca3df52423370800000000000000
+      internalID: 8300770042537894628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_up2
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 483
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef0b5dc447d6df50800000000000000
+      internalID: 6905943769122279403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_161
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 483
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceb6dd80200a3e70800000000000000
+      internalID: 9095582537246752455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 478
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1618d6f2c0b8dd0800000000000000
+      internalID: -5997836065994344585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadblu1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 431
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbaa8b23e6988bc0800000000000000
+      internalID: -3780605984745280554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadwhite1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 431
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f4a370859daae40800000000000000
+      internalID: 5668582053100801924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_169
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 431
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1886ce6be4d7915c0800000000000000
+      internalID: -4244223396790114175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_170
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 431
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6db3bce838e7b90800000000000000
+      internalID: -7242206501446887698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_171
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 428
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bee28202c693f00800000000000000
+      internalID: 1097026869610343194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_up3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 433
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d65f43cc86c708a0800000000000000
+      internalID: -6338879642626205997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_173
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 433
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c134f6b854689a8b0800000000000000
+      internalID: -5140429866416520420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadblu2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 381
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9ea521c2fa7ea60800000000000000
+      internalID: 7703318291461892607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deadwhite2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 381
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00c36613f3f28ad0800000000000000
+      internalID: -2701328601090637810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_176
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 399
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cedf12aeaea00e90800000000000000
+      internalID: -7061452150649397559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_177
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 399
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb3df21a151d5ad0800000000000000
+      internalID: -2711988198875251741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 399
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7b8e81905c655b0800000000000000
+      internalID: -5379896061984196650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_179
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 399
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6685c5f7843e7c0800000000000000
+      internalID: -4043308328601229609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number40
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 399
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002285dcc797679f0800000000000000
+      internalID: -471055534085627392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_181
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 399
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdced60a959490a20800000000000000
+      internalID: 3029032873675844831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_182
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd541f8c962a3ca60800000000000000
+      internalID: 7693171163705460191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_183
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 399
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7556e34386de46860800000000000000
+      internalID: 7522398309424457047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number80
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 399
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf9a534b2bbf16c0800000000000000
+      internalID: -4170408935433789492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number160
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 399
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cf128ab92885fb0800000000000000
+      internalID: -4658830209462436760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_186
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36470fc3262603cc0800000000000000
+      internalID: -3733375917021432733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_187
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 394
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c598ca19bed96c0800000000000000
+      internalID: -4134889871958778813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_188
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 391
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238dcaf493ab3f300800000000000000
+      internalID: 284775956767103026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life_pacman
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 393
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171cd7b9233bd5570800000000000000
+      internalID: 8457112705210106225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_190
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 387
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115c2a8bcca9af310800000000000000
+      internalID: 1439633234959975697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_191
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 369
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c955dadadc5f16920800000000000000
+      internalID: 2981934692026897820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_192
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 369
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55d3a869a538d2a0800000000000000
+      internalID: -6712556242874411682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_193
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 369
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51331ed49bd062da0800000000000000
+      internalID: -5970069166506298603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_194
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 369
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd3183c8212e4f50800000000000000
+      internalID: 6867462940749020605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_195
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 369
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d616171317b630800000000000000
+      internalID: 3942640988661929328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_196
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 369
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb925006711513b0800000000000000
+      internalID: -5542504567900300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_197
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 369
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7be24a119e24a00800000000000000
+      internalID: 739409550820423602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_198
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 369
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2286d7267bb7f8790800000000000000
+      internalID: -7525660424751192030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_199
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 369
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96678c81384cb090800000000000000
+      internalID: -8017453858978044259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_200
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 369
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1753927d92da2170800000000000000
+      internalID: 8154561648981661470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_201
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 331
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b778344265644a920800000000000000
+      internalID: 3000600587525130107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_202
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 331
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041fe6066cb5ca0f0800000000000000
+      internalID: -1104406901033078464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_203
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 342
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36dd561902f66a0800000000000000
+      internalID: -6453903932147276833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_204
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 281
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e20f77b0bc33edd0800000000000000
+      internalID: -2458054241923693851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_205
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 281
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436d4754dc1b01810800000000000000
+      internalID: 1734081351729337908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_206
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 291
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90173c306eaae8c0800000000000000
+      internalID: -3969168393223335782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_207
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ccdd5223f8e4d20800000000000000
+      internalID: 3264704225436617795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_208
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 231
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff1b4afd84c114f0800000000000000
+      internalID: -859689939782393858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_209
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 249
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e193e5fdd1e02fcd0800000000000000
+      internalID: -2525940919537092322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_210
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 181
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4026c6369e57250800000000000000
+      internalID: 5941911896614634751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_211
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 181
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028c1c2399fe5b000800000000000000
+      internalID: 51210412045223968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_212
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 199
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e6a8469541b3bf0800000000000000
+      internalID: -343658572392272233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_213
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 131
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bdfb3e73bb07740800000000000000
+      internalID: 5147820222803073831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_214
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 131
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6595bc46995b8d840800000000000000
+      internalID: 5249145036125985110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_215
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 81
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f78eb542fd75c70800000000000000
+      internalID: 8959875330930671450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman_216
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 81
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd96eec69f3f7b0800000000000000
+      internalID: -5191531699176349795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitscore10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 342
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5745b7455677ba0800000000000000
+      internalID: -6091288557474515513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitscore30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 342
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3a15f30ddd37870800000000000000
+      internalID: 8679524793358328781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitscore50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 342
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2177112aeb2bc3610800000000000000
+      internalID: 1602352099269637906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitscore70
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 342
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc717bfef3afeeb0800000000000000
+      internalID: -4688348371533857580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitscore100
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 342
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4477ad444dcab60800000000000000
+      internalID: 7758809650240636146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitscore200
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 342
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db51db244ef8e0560800000000000000
+      internalID: 7281915858039674301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitscore300
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 342
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747ad920de678e5d0800000000000000
+      internalID: -3033043588710815929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitscore500
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 342
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a807708643aaecd80800000000000000
+      internalID: -8228452327098978166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pacman_196: -5542504567900300346
+      pacman_186: -3733375917021432733
+      pacman_141: -5174810943269518817
+      pacman_154: 7154220849072971759
+      fruitscore50: 1602352099269637906
+      blueup2: -8594232592445040695
+      pacman_78: -4391301972812700894
+      pacman_151: -579385700074230096
+      pacman_82: 6772420819199850202
+      pacman_32: -1721566011623702696
+      pacman_147: 7430124997116113414
+      pacman_129: 2494607299148517379
+      die3: 530171637729556955
+      move_up3: -6338879642626205997
+      number80: -4170408935433789492
+      pacman_191: 2981934692026897820
+      pacman_193: -5970069166506298603
+      fruit8: 5112811880275959779
+      pacman_1: -6846246853087037126
+      redright2: 6947062779613437982
+      pacman_63: 8085485750551350137
+      pacman_3: -4576091372461162260
+      pinkleft2: -854883340154228319
+      pacman_24: -7222132463908826359
+      die2: -5898472318622259078
+      pacman_212: -343658572392272233
+      fruit6: -8672108319105040561
+      pacman_8: 811491971189859559
+      pacman_104: 6509258850996988472
+      pacman_136: -4280355474048737648
+      move_down2: 7239110377395780158
+      fruit4: 3398476748516274728
+      pacman_170: -7242206501446887698
+      pacman_155: -2121637749866329576
+      deadwhite1: 5668582053100801924
+      pacman_183: 7522398309424457047
+      pacman_181: 3029032873675844831
+      redup2: 3646671478859281505
+      orangeup2: 567991060486702444
+      move_right2: -1072770987151351910
+      pacman_52: -4934117032904677078
+      blueright2: -8768996980482142673
+      reddown1: 5075582607559204779
+      pacman_23: 2045119475864554641
+      redleft2: 4126348867428354743
+      pacman_192: -6712556242874411682
+      pacman_20: 4932332716721441163
+      die9: 5536718853988682927
+      move_right3: 1590761343039026616
+      pacman_149: 1242338636292981707
+      fruitscore100: 7758809650240636146
+      pacman_188: 284775956767103026
+      pacman_50: 1083463668974058304
+      fruit3: -468136273949028545
+      die8: -4651420418089346247
+      pacman_65: 4913098273406281060
+      pacman_31: 2785431683568296644
+      bluedown1: 7890487982619634354
+      die5: 1553733398754915620
+      die4: 4625177204980712441
+      fruit5: -1156998364585794188
+      die6: -134283487687209521
+      pacman_205: 1734081351729337908
+      pacman_215: 8959875330930671450
+      pacman_190: 1439633234959975697
+      pacman_106: 3842763254894037910
+      pacman_138: -5542975952814760847
+      die10: 4949383054373651383
+      pacman_89: 385177229733503175
+      orangedown2: 99390506279117045
+      move_left2: 3794638696590498646
+      blueleft2: -6989376462542738776
+      die7: 6189044251816775040
+      fruit7: -7381859398454205511
+      pacman_176: -7061452150649397559
+      pinkdown2: 6126012214454408452
+      bluedown2: -5373553299308548557
+      pinkright2: 1730040498318511708
+      pacman_197: 739409550820423602
+      fruitscore300: -3033043588710815929
+      blueleft1: -9090272414779283912
+      pacman_83: -7126196899866054246
+      pacman_19: -1088084366316364721
+      number160: -4658830209462436760
+      move_up2: 6905943769122279403
+      die1: 5837186894641243381
+      pacman_39: 5417905091366733664
+      eyesleft: -9077022251161238014
+      pacman_5: 1233117339249576371
+      fruit1: 905349130636697944
+      pinkleft1: 7023321671985514165
+      pacman_70: -5781697233919323984
+      pacman_200: 8154561648981661470
+      pacman_69: -4641593556401243107
+      blueright1: 852037633413485090
+      pacman_202: -1104406901033078464
+      pacman_171: 1097026869610343194
+      fruitscore70: -4688348371533857580
+      number20: -5379896061984196650
+      life_pacman: 8457112705210106225
+      orangeright2: 8209479614911278587
+      pacman_67: 1202898675520564615
+      pacman_66: -2199232448168312711
+      pacman_87: 6231000246559611398
+      pacman_4: 469561110914596722
+      pacman_17: -5076354210007895842
+      number40: -471055534085627392
+      redleft1: 6468247184893952535
+      pacman_199: -8017453858978044259
+      pacman_49: -4121570435306515796
+      pacman_208: -859689939782393858
+      pacman_121: -7133503749351487074
+      pacman_55: 7751918403986290470
+      pacman_198: -7525660424751192030
+      pacman_35: -3114784291052628830
+      pacman_36: -9099071105552488988
+      pacman_103: 2558827914957843044
+      pacman_33: 3204918198745873560
+      move_down3: 418544820543888437
+      move_left3: 3199835165578219344
+      pacman_203: -6453903932147276833
+      orangeright1: 760343955179998700
+      pacman_124: 6386950784423942010
+      reddown2: 8278381593735536675
+      die11: -5997836065994344585
+      pacman_15: -4866129279478624021
+      pacman_107: -788933442588730053
+      pacman_194: 6867462940749020605
+      eyesdown: 5003827080538803226
+      pacman_51: -6975469502024871128
+      pacman_46: 6419345824998226305
+      move_up1: -5774763338125271258
+      pacman_177: -2711988198875251741
+      fruit2: -4725083937755954734
+      pacman_21: -1518011583465441527
+      redright1: -2389268959542402154
+      pacman_112: -1895812810929692483
+      fruitscore500: -8228452327098978166
+      move_left1: 1085813034733001922
+      pacman_119: -3728076063186350077
+      pacman_161: 9095582537246752455
+      pacman_209: -2525940919537092322
+      pacman_96: -3111318921074655546
+      pacman_88: -8434962937658212658
+      pinkup1: -382207372108698142
+      pacman_18: 8361050780753816147
+      orangedown1: -8883911104581167381
+      pacman_142: 4516267370533775314
+      pacman_68: -3996632382485662137
+      dot: 6311199445447666015
+      pacman_182: 7693171163705460191
+      pacman_216: -5191531699176349795
+      eyeslef: 5083283105747020897
+      fruitscore30: 8679524793358328781
+      pacman_201: 3000600587525130107
+      pacman_7: 7643592245220978941
+      pacman_214: 5249145036125985110
+      pacman_111: -4251310486770828795
+      deadblu1: -3780605984745280554
+      pacman_150: 190094288787506036
+      pacman_90: 2361783361845324971
+      pacman_210: 5941911896614634751
+      pacman_123: -8015846914358519947
+      pacman_173: -5140429866416520420
+      pacman_84: 6728708983717406095
+      pacman_113: -421126632148878299
+      pacman_2: -343595675399140622
+      pinkright1: -7286219196981311097
+      pacman_54: -3642914101295106462
+      move_right1: -3325782504466155778
+      pacman_48: 1856060509188357805
+      pacman_16: 6574030849462677112
+      deadblu2: 7703318291461892607
+      pacman_128: -3280839261339525691
+      pacman_34: -1903558350907539637
+      pacman_207: 3264704225436617795
+      pacman_105: -4639498317344951879
+      fruitscore200: 7281915858039674301
+      pacman_85: -7402994828164219267
+      pacman_187: -4134889871958778813
+      d: 7481133298048092207
+      pacman_145: 7152724383265566810
+      pacman_213: 5147820222803073831
+      pacman_47: -213011915107415318
+      pacman_62: 3485138161151124234
+      pacman_64: -7157907889205322563
+      pacman_179: -4043308328601229609
+      eyesright: 851172708535539081
+      orangeup1: 560038181757300857
+      pacman_102: -576571309850959191
+      pacman_125: 4195674842273370707
+      orangeleft2: 4674271249595719574
+      pinkdown1: 4391538855646613132
+      pacman_81: -3542351134821532599
+      pacman_71: 1570530483546257971
+      pacman_86: -314997752656561238
+      move_down1: -365622042387100474
+      pacman_169: -4244223396790114175
+      fruitscore10: -6091288557474515513
+      pacman_158: 2230890308455463345
+      pacman_206: -3969168393223335782
+      pacman_120: -3802224459624056356
+      pinkup2: 7440728748897910019
+      pacman_122: -3362117517614519058
+      pacman_0: 6679698536114150705
+      pacman_195: 3942640988661929328
+      pacman_37: 6204552519194196234
+      pacman_204: -2458054241923693851
+      pacman_211: 51210412045223968
+      blueup1: 3160471035554717807
+      pacman_101: -3982333591839094159
+      orangeleft1: 1199085405180122605
+      redup1: 1554833827577949695
+      pacman_159: 8300770042537894628
+      deadwhite2: -2701328601090637810
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
