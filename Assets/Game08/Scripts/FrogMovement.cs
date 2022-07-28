@@ -18,7 +18,7 @@ public class FrogMovement : MonoBehaviour
     /// <summary>
     /// Capa asignada a los bordes del escenario para evitar que la rana pueda saltar hasta ellos.
     /// </summary>
-    [SerializeField] LayerMask borderMask = 8;
+    [SerializeField] LayerMask borderMask;
     /// <summary>
     /// Será positivo si la rana está muerta, falso si no lo está.
     /// </summary>
@@ -74,18 +74,6 @@ public class FrogMovement : MonoBehaviour
     /// </summary>
     [SerializeField] AudioSource squashSound = null;
 
-    /// <summary>
-    /// Función que comprueba si el jugador puede moverse en una dirección concreta.
-    /// </summary>
-    /// <param name="direction">Dirección que queremos comprobar.</param>
-    /// <returns>Verdadero si puede moverse, falso si no puede.</returns>
-    bool RayMovement(Vector2 direction)
-    {
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, direction, 0.5f, borderMask);
-
-        return hit;
-    }
-
     void Start()
     {
         destination = transform.position;
@@ -129,6 +117,11 @@ public class FrogMovement : MonoBehaviour
 
     void FixedUpdate()
     {
+        if (moving)
+        {
+            return;
+        }
+
         Vector2 newPosition = Vector2.MoveTowards(transform.position, destination, speed);
         rb.MovePosition(newPosition);
 
@@ -136,6 +129,18 @@ public class FrogMovement : MonoBehaviour
         anim.SetFloat("DirX", direction.x);
         anim.SetFloat("DirY", direction.y);
         anim.SetBool("InWater", moving);
+    }
+
+    /// <summary>
+    /// Función que comprueba si el jugador puede moverse en una dirección concreta.
+    /// </summary>
+    /// <param name="direction">Dirección que queremos comprobar.</param>
+    /// <returns>Verdadero si puede moverse, falso si no puede.</returns>
+    bool RayMovement(Vector2 direction)
+    {
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, direction, 0.5f, borderMask);
+
+        return hit;
     }
 
     /// <summary>
@@ -208,7 +213,7 @@ public class FrogMovement : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Si el jugador se sube a un ojeto en movimiento, se desplazará junto a él.
+        // Si la rana se sube a un objeto en movimiento en el agua, se desplazará con él.
 
         if (collision.gameObject.layer == LayerMask.NameToLayer("Mask2"))
         {
@@ -247,6 +252,7 @@ public class FrogMovement : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Game8/DeathZone"))
         {
+            destination = transform.position;
             ResetValues();
             plunkSound.Play();
             StartCoroutine(Die("Plunk"));
